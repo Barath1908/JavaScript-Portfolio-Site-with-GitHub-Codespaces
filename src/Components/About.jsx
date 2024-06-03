@@ -24,19 +24,19 @@ const imageAltText = "Mountains background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hello there! Welcome to my profile!. I am Barath Ravichandran form Bishop Heber College, A recent graduate with a keen interest in Python development and Django framework.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Python",
+  "Django",
+  "HTML5",
+  "CSS3",
+  "JavaScript",
+  "Bootstrap",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "My passion for coding and problem-solving drives me to constantly learn and improve my skills. I am currently focusing on honing my expertise in Python and Django, as I believe they offer powerful tools for building robust and scalable web applications.";
 
 const About = () => {
   return (
